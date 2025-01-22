@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
     <h1>Hi there, I'm  Nakamura </h1>
-    <h3>«Back-End Developer from Surgut</h3>
+    <h3>Back-End Developer from Surgut</h3>
 </div>
 
 <div id="socials" align="center">
