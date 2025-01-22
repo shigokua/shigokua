@@ -27,5 +27,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" title="php" width="55" height="50"/>&nbsp;
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" title="php" width="55" height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" title="php" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/node_js.png?raw=true" title="php" width="50" height="50"/>&nbsp;
 </p>
